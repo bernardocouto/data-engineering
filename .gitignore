@@ -1,0 +1,19 @@
+# Byte Compiled
+__pycache__/
+
+# Data
+*.EMPRECSV
+*.ESTABELE
+*.SOCIOCSV
+
+# MacOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Virtual Environment
+venv/
+
+# Visual Studio Code
+.vscode/
