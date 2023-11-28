@@ -1,0 +1,14 @@
+# JetBrains
+.idea/
+
+# Kubectl
+kubectl
+
+# MacOS
+.DS_Store
+
+# Virtual Environment
+venv/
+
+# Visual Studio Code
+.vscode/
